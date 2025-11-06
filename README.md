@@ -2,28 +2,6 @@
 
 <!-- ========================= HEADER ANIMATION ========================= -->
 
-<p align="center">
-  <svg width="900" height="120" viewBox="0 0 900 120" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Hi, I'm Hlawu">
-    <rect width="100%" height="100%" fill="transparent"/>
-    <g font-family="Inter, Segoe UI, Arial, sans-serif" text-anchor="middle">
-      
-      <!-- Line 1 -->
-      <text x="450" y="55" font-size="36" font-weight="700" opacity="0">
-        Hi, I'm Hlawu 👨‍🔬👨‍💻
-        <animate attributeName="opacity" from="0" to="1" dur="0.7s" begin="0s" fill="freeze"/>
-        <animate attributeName="y" from="65" to="55" dur="0.7s" begin="0s" fill="freeze"/>
-      </text>
-
-      <!-- Line 2 -->
-      <text x="450" y="95" font-size="18" opacity="0">
-        Software • Data Science • Research • Analytics • Sustainability
-        <animate attributeName="opacity" from="0" to="1" dur="0.7s" begin="0.5s" fill="freeze"/>
-        <animate attributeName="y" from="105" to="95" dur="0.7s" begin="0.5s" fill="freeze"/>
-      </text>
-
-    </g>
-  </svg>
-</p>
 
 <!-- ========================= FUN CARTOON AVATAR ========================= -->
 
