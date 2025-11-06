@@ -1,6 +1,29 @@
 <!-- FINAL README: Animated + Multidisciplinary + Clean Portfolio Style -->
 
 <!-- ========================= HEADER ANIMATION ========================= -->
+<!-- Animated header using readme-typing-svg -->
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=36&pause=700&center=true&vCenter=true&width=900&height=60&lines=Hi%2C+I'm+Hlawu+%F0%9F%91%A8%F0%9F%94%AC%F0%9F%91%A8%F0%9F%92%BB"
+    alt="Hi, I'm Hlawu"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Inter&size=20&duration=1&pause=100000000&center=true&vCenter=true&width=900&height=30&lines=Software+•+Data+Science+•+Research+•+Analytics+•+Sustainability"
+    alt="Software • Data Science • Research • Analytics • Sustainability"
+  />
+</p>
+
+<!-- Fun cartoon avatar -->
+<p align="center">
+  <img
+    src="https://api.dicebear.com/7.x/bottts/svg?seed=Hlawu&radius=50&backgroundType=gradientLinear"
+    alt="Hlawu avatar"
+    width="160"
+  />
+</p>
 
 
 <!-- ========================= FUN CARTOON AVATAR ========================= -->
