@@ -118,4 +118,4 @@ Perfect because of your **water-treatment optimization experience**.
 ---
 
 
-<p align="center">✨ A fun, multidisciplinary profile — inspired by Segun’s clean aesthetic ✨</p>
+<p align="center">✨ A fun, multidisciplinary profile  ✨</p>
