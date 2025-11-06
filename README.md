@@ -1,7 +1,7 @@
 <!-- FINAL README: Fun + Multidisciplinary + Segun‑style + Based on Your CV -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=28&pause=900&center=true&vCenter=true&width=900&lines=Hey+there+👋;I'm+Hlawu+Rikhotso;Software+%2B+Data+%2B+Science+%2B+Sustainability;Turning+real-world+problems+into+scalable+solutions" />
+  <font=Inter&size=28&pause=900&center=true&vCenter=true&width=900&lines=Hey+there+👋;I'm+Hlawu+Rikhotso;Software+%2B+Data+%2B+Science+%2B+Sustainability;Turning+real-world+problems+into+scalable+solutions" />
 </p>
 
 <h1 align="center">Hi, I'm Hlawu 👨‍🔬👨‍💻</h1>
