@@ -112,7 +112,7 @@ Perfect because of your **water-treatment optimization experience**.
 
 * Clean energy & sustainability
 * High-impact data systems
-* Useful software (not cute but useless 😆)
+* Useful software 
 * Research that matters
 
 ---
