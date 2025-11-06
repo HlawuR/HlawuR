@@ -16,25 +16,7 @@
   />
 </p>
 
-<!-- Fun cartoon avatar -->
-<p align="center">
-  <img
-    src="https://api.dicebear.com/7.x/bottts/svg?seed=Hlawu&radius=50&backgroundType=gradientLinear"
-    alt="Hlawu avatar"
-    width="160"
-  />
-</p>
 
-
-<!-- ========================= FUN CARTOON AVATAR ========================= -->
-
-<p align="center">
-  <img
-    src="https://api.dicebear.com/7.x/bottts/svg?seed=Hlawu&radius=50&backgroundType=gradientLinear"
-    alt="Hlawu avatar"
-    width="180"
-  />
-</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/hlawulekani-rikhotso">LinkedIn</a> •
