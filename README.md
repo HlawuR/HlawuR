@@ -1,10 +1,11 @@
 <!-- FINAL README: Animated + Multidisciplinary + Clean Portfolio Style -->
 
 <!-- ========================= HEADER ANIMATION ========================= -->
+
 <!-- Animated header using readme-typing-svg -->
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=36&pause=700&center=true&vCenter=true&width=900&height=60&lines=Hi%2C+I'm+Hlawulekani Rikhotso+%F0%9F%91%A8%F0%9F%94%AC%F0%9F%91%A8%F0%9F%92%BB"
+    src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=36&pause=700&center=true&vCenter=true&width=900&height=60&lines=Hi%2C+I'm+Hlawulekani+Rikhotso+%F0%9F%91%A8%F0%9F%94%AC%F0%9F%91%A8%F0%9F%92%BB"
     alt="Hi, I'm Hlawulekani Rikhotso"
   />
 </p>
@@ -15,7 +16,6 @@
     alt="Software • Data Science • Research • Analytics • Sustainability"
   />
 </p>
-
 
 
 <p align="center">
