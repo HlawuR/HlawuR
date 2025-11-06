@@ -26,9 +26,9 @@
 
 ---
 
-# 🌍 Who Am I?
+# 🌍 About me
 
-A *multidisciplinary builder* with one foot in **software development**, another in **data science**, and a third (yes 😂) in **environmental sustainability & research**.
+I am a *multidisciplinary builder* with one foot in **software development**, another in **data science**, and a third (yes 😂) in **environmental sustainability & research**.
 
 I love:
 
