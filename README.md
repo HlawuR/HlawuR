@@ -66,7 +66,7 @@ I love:
   <!-- ML / DS -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="44" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="44" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/huggingface.svg" height="44" />
+  
 
   <!-- UI / Misc -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="44" />
