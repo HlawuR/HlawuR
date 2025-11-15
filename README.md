@@ -1,4 +1,4 @@
-# 🌟 Hlawulekani Rikhotso | Software • Data Science • Research
+
 
 <!-- ========================= HEADER ANIMATION ========================= -->
 
@@ -9,7 +9,7 @@
   />
 </p>
 
-
+#  Software • Data Science • Research
 
 <p align="center">
   <a href="https://www.linkedin.com/in/hlawulekani-rikhotso">📱 LinkedIn</a> •
