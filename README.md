@@ -1,13 +1,6 @@
 # Hi,I am Hlawulekani Rikhotso.
 ### Software Development • Data Science • Data Analysis • Research
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/hlawulekani-rikhotso">LinkedIn</a> •
-  <a href="mailto:hlawulekanirikhotso@gmail.com">Email</a> •
-  <a href="https://github.com/HlawuR">GitHub</a>
-</p>
-
----
 
 ## About Me
 
