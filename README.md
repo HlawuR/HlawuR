@@ -1,8 +1,7 @@
-<!-- FINAL README: Animated + Multidisciplinary + Clean Portfolio Style -->
+# 🌟 Hlawulekani Rikhotso | Software • Data Science • Research
 
 <!-- ========================= HEADER ANIMATION ========================= -->
 
-<!-- Animated header using readme-typing-svg -->
 <p align="center">
   <img
     src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=36&pause=700&center=true&vCenter=true&width=900&height=60&lines=Hi%2C+I'm+Hlawulekani+Rikhotso+%F0%9F%91%A8%F0%9F%94%AC%F0%9F%91%A8%F0%9F%92%BB"
@@ -17,122 +16,146 @@
   />
 </p>
 
-
 <p align="center">
-  <a href="https://www.linkedin.com/in/hlawulekani-rikhotso">LinkedIn</a> •
-  <a href="mailto:hlawulekanirikhotso@gmail.com">Email</a> •
-  <a href="https://github.com/HlawuR">GitHub</a>
+  <a href="https://www.linkedin.com/in/hlawulekani-rikhotso">📱 LinkedIn</a> •
+  <a href="mailto:hlawulekanirikhotso@gmail.com">📧 Email</a> •
+  <a href="https://github.com/HlawuR">💻 GitHub</a>
 </p>
 
 ---
 
-# 🌍 About me
+## 👨‍💻 About Me
 
-I am a *multidisciplinary builder* with one foot in **software development**, another in **data science**, and a third (yes 😂) in **environmental sustainability & research**.
+I'm a **multidisciplinary builder** passionate about creating solutions that bridge technology, data, and real-world impact. I thrive where software engineering meets data science and environmental sustainability.
 
-I love:
+**🎯 What drives me:**
+- 🔧 Building practical tools that solve real problems
+- 📊 Transforming complex data into actionable insights  
+- 🌱 Applying technology to sustainability challenges
+- 🤖 Automating repetitive tasks so humans can focus on creativity
 
-- Turning messy data into clear insights  
-- Building practical tools in APEX, Python & SQL  
-- Solving problems with automation, modeling & analytics  
-- Bringing science, engineering, and software together  
-
-> **Software + Data + Science = My playground**
+> **"Software + Data + Science = My playground for meaningful innovation"**
 
 ---
 
-# 🛠️ Tools
+## 🛠️ Tech Stack
 
-<p align="center">
-
-  <!-- Programming -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="44" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="44" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="44" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="44" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="44" />
-
-  <!-- Databases -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="44" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="44" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="44" />
-
-  <!-- DevOps / Cloud / VCS -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="44" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="44" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="44" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/kaggle.svg" height="44" />
-
-  <!-- ML / DS -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="44" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="44" />
-  
-
-  <!-- UI / Misc -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="44" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/canva.svg" height="44" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="44" />
-
+### 💻 Programming & Data Science
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="44" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="44" alt="NumPy" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="44" alt="Pandas" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="44" alt="Jupyter" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="44" alt="TensorFlow" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="44" alt="PyTorch" />
 </p>
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="44" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="44" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="44" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="44" />
+### 🗄️ Databases & Backend
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="44" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="44" alt="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="44" alt="Oracle" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="44" alt="Docker" />
+</p>
+
+### 🌐 Frontend & Tools
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="44" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="44" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="44" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="44" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="44" alt="Bootstrap" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="44" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="44" alt="VS Code" />
 </p>
 
 ---
 
-# 🔧 What I Work With (Quick Glance)
+## 🚀 Featured Projects
 
-- **APEX & PL/SQL:** dashboards, calendars, RBAC, session protection  
-- **SQL:** packages, procedures, views, query optimisation  
-- **Python:** automation pipelines (cx_Oracle, cron, pandas)  
-- **Data Science:** regression, classification, time series, SHAP/LIME  
-- **BI:** Power BI & Tableau dashboards, Plotly/Matplotlib visualisation  
+### 🌦️ Real-Time Solar Efficiency Dashboard
+**Interactive solar panel performance analyzer using live weather data**
+- 📊 Real-time efficiency calculations and visualizations
+- 🌤️ Live weather API integration
+- 📈 Expected vs. actual performance comparisons
+- 🎯 Built with Python, Streamlit, and Plotly
 
----
+### 🧪 Water Quality Compliance Analyzer (SANS 241)
+**Automated compliance checking tool for water safety standards**
+- 🔬 Processes lab test results (CSV/Excel)
+- ⚠️ Flags non-compliant metrics against SANS 241 standards
+- 📄 Generates comprehensive PDF reports
+- 💡 Educational tool for water quality management
 
-# 📌 Featured Projects
-
-## 🌦️ Real-Time Solar Efficiency Dashboard
-
-A mini app that calculates and visualizes **solar panel performance** using weather data, radiation estimates, and physical formulas.
-
-- Python (Streamlit/Plotly)  
-- Live weather API  
-- Expected vs actual efficiency  
-- Visual, interactive, educational  
-
----
-
-## 🧪 Water Quality Compliance Analyzer (SANS 241)
-
-A web or notebook tool that:
-
-- Accepts lab water-test results (CSV/Excel)  
-- Checks compliance with **SANS 241**  
-- Flags noncompliant metrics  
-- Generates a concise PDF report  
+### 🔧 APEX & Database Solutions
+**Enterprise-grade applications and automation**
+- 📋 Dynamic dashboards with RBAC systems
+- 🗓️ Interactive calendar and scheduling tools
+- 🔒 Session protection and security features
+- 🤖 Automated pipelines with Python and cron
 
 ---
 
-# 😄 Fun Section — Because I'm Not Only Tech
+## 📈 GitHub Stats & Activity
 
-### What I Actually Do
-✅ Build tools that save people from chaos  
-✅ Automate boring things so humans can rest  
-✅ Make dashboards tell stories  
-✅ Solve problems with code AND science  
-✅ Pretend I’m not googling everything daily 😭  
-
-### What I Care About
-- Clean energy & sustainability  
-- High-impact data systems  
-- Useful software  
-- Research that actually matters  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HlawuR&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HlawuR&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
 ---
 
-<p align="center">✨ A fun, multidisciplinary profile ✨</p>
+## 🎯 What I Bring to the Table
+
+### 💼 Professional Expertise
+- **APEX & PL/SQL Development** – Building robust enterprise applications
+- **Data Science & Analytics** – From EDA to predictive modeling
+- **Automation & Scripting** – Eliminating manual, repetitive work
+- **BI & Visualization** – Creating insightful, actionable dashboards
+
+### 🌟 Unique Value Proposition
+- 🔗 **Bridge Builder** – Connecting software engineering with data science
+- 🎯 **Problem Solver** – Focused on practical, impactful solutions  
+- 📚 **Continuous Learner** – Always exploring new technologies and methodologies
+- 🌍 **Purpose-Driven** – Passionate about sustainability and meaningful work
+
+---
+
+## 😄 Beyond the Code
+
+### 🎨 My Approach
+> "I don't just write code – I build solutions that make people's lives easier and our world a bit better."
+
+### 💫 Fun Facts
+- 🎯 I believe the best code is the code you don't have to write twice
+- 📊 I get genuinely excited about clean data and clear visualizations
+- 🌱 I'm passionate about using technology for environmental sustainability
+- 😅 I Google things daily – we all do, let's be real!
+
+### 🎯 Current Focus
+- 🔭 Exploring advanced machine learning applications
+- 🌱 Contributing to sustainability-focused tech projects
+- 💡 Building tools that bridge the gap between research and practical implementation
+
+---
+
+<p align="center">
+  <strong>✨ Ready to build something amazing together? ✨</strong>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/hlawulekani-rikhotso">📱 Let's Connect</a> •
+  <a href="mailto:hlawulekanirikhotso@gmail.com">💌 Send me an Email</a> •
+  <a href="https://github.com/HlawuR?tab=repositories">🚀 Explore My Projects</a>
+</p>
+
+---
+
+<p align="center">
+  <i>Thanks for visiting! Have an awesome day! 😄</i>
+</p>
+
+<!-- ========================= JAW-DROPPING ELEMENTS ========================= -->
+<!-- Added GitHub stats, better organization, more professional tone while keeping personality -->
+<!-- Used material-style emojis throughout for visual appeal -->
+<!-- Clear value proposition and call-to-action sections -->
