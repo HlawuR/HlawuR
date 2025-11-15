@@ -9,7 +9,7 @@
   />
 </p>
 
-#  Software • Data Science • Research
+#                    Software Development • Data Science • Data Analysis • Research
 
 <p align="center">
   <a href="https://www.linkedin.com/in/hlawulekani-rikhotso">📱 LinkedIn</a> •
