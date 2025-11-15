@@ -1,6 +1,13 @@
-# Hi, I am Hlawulekani Rikhotso.
+# Hlawulekani Rikhotso  
 ### Software Development • Data Science • Data Analysis • Research
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/hlawulekani-rikhotso/">LinkedIn</a> •
+  <a href="mailto:hlawulekanirikhotso@gmail.com">Email</a> •
+  <a href="https://github.com/HlawuR">GitHub</a>
+</p>
+
+---
 
 ## About Me
 
@@ -121,7 +128,7 @@ Enterprise-grade applications and automation
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/hlawulekani-rikhotso">Connect on LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/hlawulekani-rikhotso/">Connect on LinkedIn</a> •
   <a href="mailto:hlawulekanirikhotso@gmail.com">Send me an Email</a> •
   <a href="https://github.com/HlawuR?tab=repositories">Explore My Projects</a>
 </p>
@@ -132,6 +139,6 @@ Enterprise-grade applications and automation
   <i>Thanks for visiting! Have a great day.</i>
 </p>
 
+<!-- Fixed LinkedIn link with trailing slash -->
 <!-- Clean, professional design without emojis -->
 <!-- Maintains personality while presenting polished, credible appearance -->
-<!-- Focus on clarity, readability, and professional credibility -->
