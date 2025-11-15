@@ -1,4 +1,4 @@
-# Hi,I am Hlawulekani Rikhotso.
+# Hi, I am Hlawulekani Rikhotso.
 ### Software Development • Data Science • Data Analysis • Research
 
 
