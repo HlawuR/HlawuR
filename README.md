@@ -9,12 +9,7 @@
   />
 </p>
 
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Inter&size=20&duration=1&pause=100000000&center=true&vCenter=true&width=900&height=30&lines=Software+•+Data+Science+•+Research+•+Analytics+•+Sustainability"
-    alt="Software • Data Science • Research • Analytics • Sustainability"
-  />
-</p>
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/hlawulekani-rikhotso">📱 LinkedIn</a> •
